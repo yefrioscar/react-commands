@@ -1,0 +1,20 @@
+{
+  "name": "react-commands",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yefri Laura",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "clear": "^0.1.0",
+    "inquirer": "^7.1.0",
+    "meow": "^6.1.0",
+    "mkdirp": "^1.0.4",
+    "pkg-dir": "^4.2.0",
+    "rimraf": "^3.0.2"
+  },
+  "bin": {
+    "react": "./index.js",
+    "r": "./index.js"
+  }
+}
