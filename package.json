@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Yefri Laura",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@yefrioscar"
+  },
   "dependencies": {
     "chalk": "^4.0.0",
     "clear": "^0.1.0",
